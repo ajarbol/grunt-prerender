@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "async": "1.5.0",
-    "phantomjs": "1.9.19",
+    "phantomjs": "^2.1.1",
     "sitemapper": "0.0.1"
   },
   "devDependencies": {
